@@ -9,6 +9,10 @@
   <name>geoassist2</name>
   <description>geoassist2</description>
 
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
   <modules>
     <module>base</module>
     <module>desktop</module>
